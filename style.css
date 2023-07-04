@@ -20,24 +20,26 @@
 .vertical-align-square {
     line-height: 100px;
     vertical-align: middle;
+    
 }
 
 .container-squares-flex {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    font-weight: bold;
 }
 
 .color-fizzbuzz{
     background-color: rosybrown ;
 }
 .color-buzz{
-    background-color: rgb(227, 227, 127)
+    background-color: rgb(248, 230, 76)
 }
 .color-fizz{
-    background-color: aqua;
+    background-color: rgb(177, 244, 217);
 }
 
 .color{
-    background-color: rgb(70, 70, 212)
+    background-color: rgb(81, 81, 233)
 }
